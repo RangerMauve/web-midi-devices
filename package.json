@@ -1,0 +1,25 @@
+{
+  "name": "web-midi-devices",
+  "version": "1.0.0",
+  "description": "Get a list of midi input or output device names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RangerMauve/web-midi-devices.git"
+  },
+  "keywords": [
+    "midi",
+    "web",
+    "device",
+    "input"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/web-midi-devices/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/web-midi-devices"
+}
